@@ -26,7 +26,7 @@ This is a Library Management System designed to manage books, users, checkouts, 
 
 1. Clone the repository:
     ```bash
-    [git clone https://github.com/your-username/library-management-system.git](https://github.com/tausifahmed12400/techolution-code-.git)
+    git clone https://github.com/tausifahmed12400/techolution-code-
     cd library-management-system
     ```
 
