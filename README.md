@@ -36,3 +36,11 @@ To run the Library Management System:
 
 ```bash
 python main.py
+
+ ```
+
+## To run the test cases for the Library Management System, use the following command:
+
+```bash
+python test_library.py
+ ```
